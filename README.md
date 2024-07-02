@@ -7,6 +7,9 @@
 **팀과 함께 협력하며 성장하고 싶은 개발자 임동균입니다🌱.**
 
 **자바 언어를 기반으로 Spring 프레임워크를 이용한 백엔드 개발자를 꿈꾸고 있습니다**
+
+<a href="(https://imdongkyun.notion.site/6f48189d8cfe4d22b690a9b682fb33d7)"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+
 <!--
 **io030/io030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

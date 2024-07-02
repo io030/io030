@@ -1,6 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=timeGradient&text=Welcome!)
-
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=timeGradient&text=Welcome%20to%20DongKyun's%20GitHub%20👋&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=250)
 
 ## **“*협력하는 개발자”***
 

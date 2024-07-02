@@ -1,5 +1,12 @@
-## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=timeGradient&text=Welcome!)
+
+
+## **“*협력하는 개발자”***
+
+**팀과 함께 협력하며 성장하고 싶은 개발자 임동균입니다🌱.**
+
+**자바 언어를 기반으로 Spring 프레임워크를 이용한 백엔드 개발자를 꿈꾸고 있습니다**
 <!--
 **io030/io030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
